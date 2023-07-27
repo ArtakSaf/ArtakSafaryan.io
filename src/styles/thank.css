@@ -1,0 +1,14 @@
+.last_thanks_content{
+     width: 99%;
+     height: 5vh;
+     /* border: 2px solid red; */
+     margin-top: 1rem;
+}
+
+.text_thanks{
+     text-align: center;
+     font-weight: 700;
+     color: #344767;
+     font-family: Roboto, Helvetica, Arial, sans-serif;
+     font-size: 18px;
+}

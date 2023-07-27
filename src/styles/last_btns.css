@@ -1,0 +1,35 @@
+.last_btns {
+     width: 98%;
+     height: 3rem;
+     /* border: 2px solid red; */
+     margin: auto;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin: 5px;
+}
+
+.tweet {
+     width: 105px;
+     margin-right: 5px;
+     height: 2.5rem;
+     border: none;
+     background-color: #344767;
+     border-radius: 4px;
+     color: white;
+     font-weight: 700;
+     font-size: 12px;
+}
+
+.share {
+     border: none;
+     margin-left: 5px;
+     width: 105px;
+     height: 2.5rem;
+     background-color: #344767;
+     border: 4px;
+     color: white;
+     font-weight: 700;
+     font-size: 12px;
+     border-radius: 4px;
+}

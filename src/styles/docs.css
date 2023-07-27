@@ -1,0 +1,30 @@
+.docs {
+     width: 88%;
+     height: 2.5rem;
+     /* position: relative; */
+     margin-left: 21px;
+     margin-top: 13px;
+     border-radius: 4px;
+     background-color: aliceblue;
+     cursor: pointer;
+     box-shadow: #1a73e8;
+     border: 1px solid;
+}
+
+.link_d {
+     position: absolute;
+     display: flex;
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+     font-size: 11px;
+     margin-left: 95px;
+     margin-top: 11px;
+     text-decoration: none;
+     color: #081422;
+     font-weight: bold;
+     text-transform: uppercase;
+     opacity: 1;
+     letter-spacing: 1px;
+    
+}

@@ -1,0 +1,23 @@
+.color_change_box {
+     width: 95%;
+     height: 3.8%;
+     /* margin-left: 15px; */
+     border: 2px solid white;
+     /* margin-top: 20px; */
+     /* position: absolute; */
+     /* margin-top: 130px; */
+}
+
+.sidebar_content {
+    /* margin-block-start: 2.33em;
+  margin-block-end: 2.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px; */
+     color: #344767;
+     font-size: 16px;
+     letter-spacing: .3px;
+     margin-left: 20px;
+     /* margin-top: 25px; */
+     position: absolute;
+     font-weight: 700;
+}
